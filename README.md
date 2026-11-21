@@ -15,7 +15,7 @@
 ### Selected projects
 
 - **[Diffusion-based image editing](https://github.com/qipchip31/hair_root_touch_up)** — SDXL and MediaPipe for hair root touch-ups.
-- **[Multimodal fruit quality assessment](https://github.com/qipchip31/Rotten_Fruit_Detection)** — MobileNet vision models combined with microwave sensing.
+- **Multimodal fruit quality assessment** — MobileNet vision models combined with microwave sensing.
 
 Research in **[CNN–LSTM channel estimation](https://qipchip.com/research/hybrid-cnn-lstm-channel-estimation)** for 5G Massive MIMO.
 
