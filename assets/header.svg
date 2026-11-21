@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Chirag Pradhan</title>
+  <desc id="description">Deep Learning, AI, and AI Security</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101a24"/>
+      <stop offset="1" stop-color="#0c1118"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8cf"/>
+      <stop offset="1" stop-color="#83bcff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#background)"/>
+  <rect x="48" y="53" width="42" height="4" rx="2" fill="url(#accent)"/>
+  <text x="48" y="124" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700" letter-spacing="-1.5">Chirag Pradhan</text>
+  <text x="50" y="174" fill="#a8c4d8" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="0.7">Deep Learning · AI · AI Security</text>
+  <g stroke="#67e8cf" stroke-width="1.5" opacity="0.3">
+    <path d="M900 55 994 94 1093 60M900 55 930 154 994 94 1041 197 1093 60M930 154 1041 197 1129 151 994 94M1093 60 1129 151"/>
+  </g>
+  <g fill="#67e8cf">
+    <circle cx="900" cy="55" r="4" opacity="0.65"/>
+    <circle cx="994" cy="94" r="7"/>
+    <circle cx="1093" cy="60" r="4" opacity="0.65"/>
+    <circle cx="930" cy="154" r="5" opacity="0.8"/>
+    <circle cx="1041" cy="197" r="4" opacity="0.65"/>
+    <circle cx="1129" cy="151" r="5" opacity="0.8"/>
+  </g>
+</svg>

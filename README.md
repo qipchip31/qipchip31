@@ -1,16 +1,23 @@
-### Hi there 👋
+![Chirag Pradhan — Deep Learning · AI · AI Security](assets/header.svg)
 
-<!--
-**qipchip31/qipchip31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems and work on making AI agents safer.
 
-Here are some ideas to get you started:
+Currently an **AI & Backend Engineer at [Armor1.ai](https://armor1.ai)**, building runtime guardrails for agents, MCP tools, and execution workflows.
 
-- 🔭 I’m currently working on  drone detection
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help with Build your company
-- 💬 Ask me about My sallery
-- 📫 How to reach me: NHB 2 BMSCE
-- 😄 Pronouns: She/him
-- ⚡ Fun fact: Mere to hai hi no
--->
+### What I work on
+
+- **AI security** — prompt injection defenses, agent guardrails, and safe tool use.
+- **Deep learning** — computer vision, generative models, and multimodal learning.
+
+### Selected projects
+
+- **[Diffusion-based image editing](https://github.com/qipchip31/hair_root_touch_up)** — SDXL and MediaPipe for hair root touch-ups.
+- **[Multimodal fruit quality assessment](https://github.com/qipchip31/Rotten_Fruit_Detection)** — MobileNet vision models combined with microwave sensing.
+
+Research in **[CNN–LSTM channel estimation](https://qipchip.com/research/hybrid-cnn-lstm-channel-estimation)** for 5G Massive MIMO.
+
+`Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `FastAPI`
+
+---
+
+[Website](https://qipchip.com) · [LinkedIn](https://www.linkedin.com/in/qipchip)
