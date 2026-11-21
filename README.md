@@ -2,12 +2,17 @@
 
 I build AI systems and work on making AI agents safer.
 
-Currently an **AI & Backend Engineer at [Armor1.ai](https://armor1.ai)**, building runtime guardrails for agents, MCP tools, and execution workflows.
-
-### What I work on
+### Technical interests
 
 - **AI security** — prompt injection defenses, agent guardrails, and safe tool use.
 - **Deep learning** — computer vision, generative models, and multimodal learning.
+
+### Tech stack
+
+- **Languages** — Python, C++, JavaScript
+- **ML & deep learning** — PyTorch, TensorFlow, scikit-learn, OpenCV
+- **AI applications** — FastAPI, Flask, Streamlit, Gradio
+- **Tools & platforms** — Hugging Face, AWS, Git
 
 ### Selected projects
 
@@ -15,8 +20,6 @@ Currently an **AI & Backend Engineer at [Armor1.ai](https://armor1.ai)**, buildi
 - **[Multimodal fruit quality assessment](https://github.com/qipchip31/Rotten_Fruit_Detection)** — MobileNet vision models combined with microwave sensing.
 
 Research in **[CNN–LSTM channel estimation](https://qipchip.com/research/hybrid-cnn-lstm-channel-estimation)** for 5G Massive MIMO.
-
-`Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `FastAPI`
 
 ---
 
