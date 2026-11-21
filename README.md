@@ -1,7 +1,5 @@
 ![Chirag Pradhan — Deep Learning · AI · AI Security](assets/header.svg)
 
-I build AI systems and work on making AI agents safer.
-
 ### Technical interests
 
 - **AI security** — prompt injection defenses, agent guardrails, and safe tool use.
